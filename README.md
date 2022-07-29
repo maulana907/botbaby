@@ -53,8 +53,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```ts
 apt update && apt upgrade
 pkg install bash
-git clone https://github.com/zeeone-ofc/Alphabot-Md.git
-cd Alphabot-Md
+git clone https://github.com/maulana907/Babybot-Md.git
+cd Babybot-Md
 bash install.sh
 ```
 
@@ -79,9 +79,9 @@ global.ownernomerr = "+6285710128853"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
+global.owner = ["6285710128853","6289629650891","6289629650892"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© Babybot-Mdོ' //sticker wm
+global.author = 'Di Buat Oleh Maulana' //sticker wm
 global.sessionName = 'session'
 ```
 

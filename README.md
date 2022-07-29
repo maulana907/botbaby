@@ -70,12 +70,12 @@ global.available = false //status online (online)
 global.botname = "Alphabot-Mdོ"
 global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
 global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
+global.youtube = "https://youtube.com/channel/UC1mTiqbQVi81v0-pucpqgwQ"
 global.github = "https://zeeone-ofc.github.io/"
 global.email = "zeeoneofc@gmail.com"
 global.region = "Indonesia"
-global.ownernomer = "62887435047326"
-global.ownernomerr = "+62887435047326"
+global.ownernomer = "6285710128853"
+global.ownernomerr = "+6285710128853"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
@@ -102,11 +102,11 @@ global.sessionName = 'session'
 - [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
-- [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
+- [Group 1](https://chat.whatsapp.com/GkbJelNXUQjAz0Mmq9s7Jf)
+- [Group 2](https://chat.whatsapp.com/LVoa2CrETYf2BQGp6fRjnC)
+- [Group 3](https://chat.whatsapp.com/C1uVWJ9GQir266Z1rQWvnU)
+- [Group 4](https://chat.whatsapp.com/DRdcjsprC774gzVYEcR2pz)
+- [Group 5](https://chat.whatsapp.com/CAeuJXqCEnwDUq4BYC7mk6)
 
 # Thanks to
 <a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
